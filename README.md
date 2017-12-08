@@ -12,11 +12,11 @@ Explications:
 
 Page de démonstration: [http://deppo.tkdemos.com/](http://deppo.tkdemos.com/)
 
-![Demo 1](img/deppo-demo1.jpg)
+![Demo 1](https://raw.githubusercontent.com/coursweb/theme-deppo/master/img/deppo-demo1.jpg)
 
 Démonstration avec fond noir: http://deppo-3.tkdemos.com/  
 Fontes typographiques: Archivo Black, Overpass Mono
 
-![Demo 2](img/deppo-demo2.jpg)
+![Demo 2](https://raw.githubusercontent.com/coursweb/theme-deppo/master/img/deppo-demo2.jpg)
 
 Documentation: [https://help.themeskingdom.com/docs/deppo/](https://help.themeskingdom.com/docs/deppo/)
