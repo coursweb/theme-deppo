@@ -9,6 +9,6 @@ Le thème Deppo fonctionne avec les contenus suivants:
 
 ### Articles
 
-### Pages
+### Pages
 
 ### Projets du portfolio
