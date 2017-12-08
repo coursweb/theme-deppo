@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Les contenus standard
+permalink: "/contenus/"
 ---
 
 ## Les contenus standard
@@ -8,12 +10,12 @@ Le thème Deppo fonctionne avec les contenus suivants:
 
 ### Les Articles
 
-![Les articles](_img/deppo-article.png)
+![Les articles](img/deppo-article.png)
 
 ### Les Pages
 
-![Les pages](_img/deppo-pages.png)
+![Les pages](img/deppo-pages.png)
 
 ### Les Projets du portfolio
 
-![Le portfolio](_img/deppo-portfolio.png)
+![Le portfolio](img/deppo-portfolio.png)
