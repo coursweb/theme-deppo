@@ -8,8 +8,10 @@ permalink: "/contenus/"
 
 Le thème Deppo fonctionne avec les contenus suivants:
 
-### Articles
+### Les Articles
 
-### Pages
+![Les articles](img/beppo-article.png)
 
-### Projets du portfolio
+### Les Pages
+
+### Les Projets du portfolio
