@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Explicatifs sur le thème Deppo
+## Explicatifs sur le thème Deppo
 
 Thème créé par [Themes Kingdom](https://themeskingdom.com/)  
 Publié en novembre 2017
