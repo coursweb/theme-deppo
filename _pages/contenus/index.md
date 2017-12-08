@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Les contenus standard
-permalink: /contenus
+permalink: "/contenus/"
 ---
 
 ## Les contenus standard
