@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title: Another page
 ---
 
 ## Welcome to another page
