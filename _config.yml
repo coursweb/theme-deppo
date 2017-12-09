@@ -2,4 +2,4 @@
 title: Documentation Thème Deppo
 theme: jekyll-theme-cayman
 
-include: ["_pages"]
+# include: ["_pages"]

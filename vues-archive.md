@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 ---
 
 # Les vues archive
