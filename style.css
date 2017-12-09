@@ -1,11 +1,12 @@
 
 .page-header {
   overflow: auto;
+  padding-bottom: 1rem;
 }
 
 .page-header ul li {
   float: left;
-  margin: 0 1em 1em 0;
+  margin-right: 1em;
   list-style: none;
 }
 
