@@ -11,12 +11,11 @@
     <link rel="stylesheet" href="{{ '/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
       .page-nav a[href$="{{ page.path | replace:'.md','' }}"] {
-        color: red;
+        color: rgba(255,255,255,1);
+        text-decoration: none;
+        background-color: rgba(255,255,255,0.3);
+        border-color: rgba(255,255,255,0.5);
       }
-      /* 
-      page.path : {{page.path}}
-      page.id : {{page.id}}
-      */
     </style>
   </head>
   <body>
