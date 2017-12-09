@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
-      .page-nav a[href$=".{{ page.url  }}"] {
+      .page-nav a[href$=".{{ page.path | replace:'.md','' }}"] {
         color: red;
       }
       /* 
