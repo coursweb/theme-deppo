@@ -1,3 +1,8 @@
+
+.page-header {
+  overflow: auto;
+}
+
 .page-header ul li {
   float: left;
   margin: 0 1em 1em 0;
