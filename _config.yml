@@ -1,5 +1,6 @@
 # Site settings
 title: Documentation Thème Deppo
 theme: jekyll-theme-cayman
+url: "https://cours-web.ch/theme-deppo/"
 
 # include: ["_pages"]
