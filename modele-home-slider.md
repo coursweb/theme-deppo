@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: default
 ---
 
 ## Le modèle Home-Slider
