@@ -14,20 +14,12 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">Voir sur GitHub</a>
-      {% endif %}
       <ul>
         <li><a href="{{ site.url }}" class="btn">Index</a></li>
         <li><a href="contenus" class="btn">Les contenus standard</a></li>
         <li><a href="modele-home-slider" class="btn">Le modèle de page Home Slider</a></li>
-        <!--
-          - [Les contenus standard](contenus)
-- [Le modèle de page Home Slider](modele-home-slider)
-- [Le modèle de page Portfolio](modele-portfolio)
-- [Les vues archive (listes)](vues-archive)
-
--->
+        <li><a href="modele-portfolio" class="btn">Le modèle de page Portfolio</a></li>
+        <li><a href="vues-archive" class="btn">Les vues archive</a></li>
       </ul>
     </section>
 
