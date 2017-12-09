@@ -1,4 +1,4 @@
-## Explicatifs sur le thème Deppo
+## Fonctionnement du thème Deppo
 
 Thème créé par [Themes Kingdom](https://themeskingdom.com/)  
 Publié en novembre 2017
@@ -14,7 +14,7 @@ Page de démonstration: [http://deppo.tkdemos.com/](http://deppo.tkdemos.com/)
 
 ![Demo 1](https://raw.githubusercontent.com/coursweb/theme-deppo/master/img/deppo-demo1.jpg)
 
-Démonstration avec fond noir: http://deppo-3.tkdemos.com/  
+Démonstration avec fond noir: [http://deppo-3.tkdemos.com/](http://deppo-3.tkdemos.com/)  
 Fontes typographiques: Archivo Black, Overpass Mono
 
 ![Demo 2](https://raw.githubusercontent.com/coursweb/theme-deppo/master/img/deppo-demo2.jpg)
