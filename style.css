@@ -9,12 +9,12 @@
  *
 */
 
-.page-header:before,
-.page-header:after {
+.page-nav:before,
+.page-nav:after {
     content: " "; /* 1 */
     display: table; /* 2 */
 }
 
-.page-header:after {
+.page-nav:after {
     clear: both;
 }
